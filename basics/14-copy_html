@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u /holbertonschool-shell *.html basics
+cp -u /holbertonschool-shell *.html /holbertonschool-shell/basics
