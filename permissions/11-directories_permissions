@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 /permissions
+sudo chmod -R 111 permissions
