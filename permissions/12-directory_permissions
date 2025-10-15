@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 700 /holbertonshcool-shell/permissions/my_dir
+mkdir -m rwx,r-x,--x /holbertonshcool-shell/permissions/my_dir
